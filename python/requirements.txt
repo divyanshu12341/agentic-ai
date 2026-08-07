@@ -1,2 +1,7 @@
 ipykernel
-numpy   
+numpy  
+pandas 
+pydantic 
+langchain
+ipykernel
+python-dotenv
