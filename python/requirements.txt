@@ -11,3 +11,8 @@ bs4
 arxiv
 pymupdf
 langchain-text-splitters
+langchain-google-genai
+Chroma
+chromadb
+langchain-ollama
+sentence_transformers
