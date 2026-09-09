@@ -25,3 +25,5 @@ fastapi
 uvicorn
 langserve
 langgraph
+arxiv 
+wikipedia
